@@ -1,0 +1,8 @@
+table {
+  margin: auto;
+}
+
+td {
+  cursor: pointer;
+  font-size: 15px;
+}

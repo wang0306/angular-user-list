@@ -1,0 +1,10 @@
+form {
+  width: 490px;
+  margin: auto;
+  padding-top: 30px;
+  font-size: 13px;
+}
+
+.form-control{
+  font-size: 13px;
+}
